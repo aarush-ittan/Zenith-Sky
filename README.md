@@ -17,15 +17,18 @@ Matplotlib Documentation: https://matplotlib.org/stable/index.html
 
 Install using pip install matplotlib
 
+
 Pillow: For handling images.
 Pillow Documentation: https://pillow.readthedocs.io/en/stable/
 
 Install using pip install pillow
 
+
 Requests: For making API calls.
 Requests Documentation: https://requests.readthedocs.io/en/latest/
 
 Install using pip install requests
+
 
 WeatherAPI Account: Sign up at WeatherAPI and obtain an API key.
 https://www.weatherapi.com/docs/
